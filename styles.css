@@ -1,0 +1,104 @@
+
+.logo{
+    margin-bottom: 10px;
+}
+
+.caption{
+    font: 12px;
+    font-style: italic;
+    text-align: center;
+}
+
+.block{
+    border: 3px solid black;
+    width: 90%;
+    padding: 10px 3px 0px 3px;
+    margin: 10px;
+}
+
+.block .section{
+    padding: 5px 3px 0px 3px;
+    font-size: 48px;
+}
+/* Color Block Styles */
+.color-block{
+    display: inline-block;
+    width: 30%;
+    padding: 10px;
+    margin: 15px 3px;
+    height: 140px;
+}
+
+.color-title{
+    text-align: center;
+}
+
+.color-hex{
+    text-align: center;
+}
+
+.purple-block{
+    background-color: #8F6DFF; 
+}
+
+.light-blue-block{
+    background-color: #1EEDFF;
+}
+
+.pink-block{
+    background-color: #BD12FE;
+}
+
+.beige-block{
+    background-color: #FFBC00;
+}
+.orange-block{
+    background-color: #E84E38;
+}
+
+/*Font Styling*/
+
+.font-block{
+    display: inline-block;
+    width: 40%;
+    padding: 10px;
+}
+.poppins{
+    font-family: "poppins";
+}
+
+.nunito{
+    font-family: "nunito";
+    
+}
+
+.open-sans{
+    font-family: "open-sans";
+    
+}
+
+.label{
+    text-decoration: underline;
+    font-size: 24px;
+}
+
+.regular{
+    font-size: 18px;
+}
+
+.bold{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.italics{
+    font-size: 18px;
+    font-style: italic;
+}
+
+/* Text Styles */
+.style-block{
+    font-size: 17px;
+    font-family: "Open-sans";
+    padding: 10px;
+}
